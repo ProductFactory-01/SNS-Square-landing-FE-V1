@@ -8,7 +8,7 @@ import Pagination from '../../common/Pagination.jsx';
 import SelectCatagoryImg from "../../../../public/images/objects.png";
 import Docimg from "../../../../public/images/doc.png";
 import Sumimg from "../../../../public/images/sum.png";
-import Com from "../../../../public/images/Com.png"
+import Com from "../../../../public/images/com.png"
 import BusinessImg from "../../../../public/images/Business.png"
 import Compliance from "../../../../public/images/compliance.png"
 import Dataimg from "../../../../public/images/data.png";
