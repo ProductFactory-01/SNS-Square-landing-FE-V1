@@ -18,7 +18,7 @@ import Social from "../../../../public/images/social.png";
 import AgentCard from './AgentCard.jsx';
 import HumanResource from "../../../../public/icons/Corprate.svg";
 import Healthcare from "../../../../public/icons/Healthcareuicon.svg"
-import Finance from "../../../../public/icons/finance.svg";
+import Finance from "../../../../public/icons/Finance.svg";
 import Manufacturing from "../../../../public/icons/supports.svg";
 import RealEstate from "../../../../public/icons/imporve.svg";
 import Retail from "../../../../public/icons/Reduces.svg";
